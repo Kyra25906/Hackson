@@ -1,0 +1,19 @@
+[
+  {
+    "id": "liked::22",
+    "theme": {
+      "id": "亲情遗憾",
+      "label": "亲情遗憾"
+    },
+    "childhood": {
+      "title": "\"怎么了呢？\"父亲老了。"
+    },
+    "adulthood": {
+      "interpretation": "父亲老了，突然就想哭了"
+    },
+    "source": {
+      "textbook": "八年级上册《台阶》李森祥"
+    },
+    "backgroundPrompt": "old man sitting quietly, warm side light, deep wrinkles, time passing, photorealistic cinematic portrait background, 35mm, shallow depth of field, soft film grain, dreamy bokeh, high detail, calming mood, no text, no watermark, color palette: deep blue purple with soft pink accent light"
+  }
+]
