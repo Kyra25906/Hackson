@@ -1,6 +1,12 @@
 {
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/echo?path=$1" },
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/echo.js"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
   ]
 }
